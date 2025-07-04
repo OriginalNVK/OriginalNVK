@@ -68,15 +68,6 @@
 [![ON Modern Bank](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=Modern-Bank&theme=gotham&border_color=54a68b)](https://github.com/OriginalNVK/Modern-Bank)
 [![AI Decision Tree](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=AI-Decision-Tree&theme=gotham&border_color=54a68b)](https://github.com/originalnvk/AI-Decision-Tree)
 
-### 📝 Lines of Code
-
-<div align="center">
-
-![LOC Langs](https://api.githubtrends.io/user/svg/originalnvk/langs?time_range=one_year&theme=dark)
-![LOC Repos](https://api.githubtrends.io/user/svg/originalnvk/repos?time_range=one_year&group=other&theme=dark)
-
-</div>
-
 ---
 
 <div align="center">
