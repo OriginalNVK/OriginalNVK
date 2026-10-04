@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img width="25px" alt="Hello" src="https://camo.githubusercontent.com/2ec030bc751ce444be25f6ed5aa026d2a0950d5cc62603faa27f4ec72f1e7ac3/68747470733a2f2f782e747739332e66756e2f696d616765732f68692e676966">
-  Hello, World! I'm Van Khanh 🙆
+  Hello World! I'm Van Khanh 🙆
 </h1>
 
 <h3 align="center">
@@ -21,15 +20,53 @@
 
 ### 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+#### Core Languages
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### Frontend
 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Kendo UI](https://img.shields.io/badge/Kendo%20UI-FF6358.svg?style=for-the-badge&logo=telerik&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031.svg?style=for-the-badge&logo=primeng&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+#### Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Databases
+
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### AI
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000.svg?style=for-the-badge&logo=github-copilot&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -38,19 +75,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=originalnvk&hide=stars,contribs&show=prs_merged_percentage&show_icons=true&theme=holi&border_color=71a9e&rank_icon=github&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=originalnvk&&langs_count=6&layout=compact&theme=holi&border_color=71a9e&card_width=330px)
 ![GitHub Streak](https://streak-stats.demolab.com?user=originalnvk&theme=rising-sun&date_format=j%2Fn%5B%2FY%5D&border=e78e42&currStreakNum=e78e42&sideNums=e78e42&dates=fef7ee)
-
----
-
-### 🚀 Projects
-
-[![E-Commerce](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=ECommerce-HKShop&theme=gotham&border_color=54a68b)](https://github.com/OriginalNVK/ECommerce-HKShop)
-[![Student Management](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=School-Management&theme=gotham&border_color=54a68b)](https://github.com/OriginalNVK/School-Management)
-
-[![Sushi Management](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=Sushi-Store-Management&theme=gotham&border_color=54a68b)](https://github.com/OriginalNVK/Sushi-Store-Management)
-[![Hotel Management](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=hotel-management&theme=gotham&border_color=54a68b)](https://github.com/originalnvk/Hotel-Management)
-
-[![ON Modern Bank](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=Modern-Bank&theme=gotham&border_color=54a68b)](https://github.com/OriginalNVK/Modern-Bank)
-[![AI Decision Tree](https://github-readme-stats.vercel.app/api/pin/?username=originalnvk&repo=AI-Decision-Tree&theme=gotham&border_color=54a68b)](https://github.com/originalnvk/AI-Decision-Tree)
 
 ---
 
